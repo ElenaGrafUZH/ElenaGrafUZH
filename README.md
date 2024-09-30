@@ -1,4 +1,8 @@
-## Hi there 👋
+
+### 👩‍🎓 Master student
+
+### 🌱 🧠 👩‍💻 Bioinformatics and Computational Biology
+### 🏫 University of Bern 
 
 <!--
 **ElenaGrafUZH/ElenaGrafUZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
